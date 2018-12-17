@@ -1,0 +1,16 @@
+.App {
+    text-align: center;
+}
+
+.calculator-wrapper {
+    width: 400px;
+    height: 600px;
+    position: relative;
+    margin: 0 auto;
+    margin-top: 10%;
+}
+
+.row {
+    display: flex;
+    width: 100%;
+}
